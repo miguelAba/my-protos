@@ -1,5 +1,5 @@
 syntax = "proto3";
-package hero;
+package notification;
 
 enum Corpus {
   CORPUS_UNSPECIFIED = 0;
